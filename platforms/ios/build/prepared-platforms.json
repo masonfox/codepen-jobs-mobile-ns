@@ -1,0 +1,21 @@
+{
+    "axios": true,
+    "lodash": true,
+    "markdown-it": true,
+    "nativescript-theme-core": true,
+    "nativescript-vue": true,
+    "tns-core-modules": true,
+    "vue": true,
+    "vuex": true,
+    "follow-redirects": true,
+    "is-buffer": true,
+    "argparse": true,
+    "entities": true,
+    "linkify-it": true,
+    "mdurl": true,
+    "uc.micro": true,
+    "tns-core-modules-widgets": true,
+    "debug": true,
+    "sprintf-js": true,
+    "ms": true
+}

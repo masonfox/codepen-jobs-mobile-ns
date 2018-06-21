@@ -1,0 +1,54 @@
+@import 'nativescript-theme-core/css/core.dark.css';
+
+.job-list {
+  background: #222;
+}
+
+.job-list .item {
+  color: #fff;
+  padding: 23 10;
+}
+
+.job-list .item.featured {
+  background: #FEDD31;
+  color: #222;
+}
+
+.job-list .item .job-featured-block {
+  background: #e3c219;
+  color: #222;
+  padding: 5;
+  margin-top: 10;
+}
+
+.job-list .item .job-title {
+  font-weight: 800;
+  margin-bottom: 3;
+}
+
+.job-page .job-title {
+  font-weight: 800;
+  color: #fff;
+} 
+
+.job-page .job-title.featured {
+  color: #FEDD31;
+}
+
+button {
+  font-weight: 700;
+  border-color: transparent;
+  border-radius: 4;
+  padding: 12;
+}
+
+.btn-primary {
+  background: #FEDD31;
+  border-color: #FEDD31;
+  color: #222;
+}
+
+/* Fonts */
+.material-icon {
+  font-family: 'MaterialIcons-Regular';
+}
